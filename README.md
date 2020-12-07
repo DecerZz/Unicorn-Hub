@@ -1,2 +1,2 @@
 # Unicorn-Hub
-Official link to the Unicorn Hub!
+Official repo to the Unicorn Hub!
